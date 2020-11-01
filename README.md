@@ -4,8 +4,8 @@ El proyecto de Taller de Investigación 1
 Con:
 - Victor Manuel Rendon Garcia
 - Rene Alexis Salinas de los Santos 
-- Johnatan Alonso Lara
-- Luis Jesus Reinaldo Espino
+- Jonathan Alonso Lara
+- Jesus Reynaldo Espino Rodriguez
 - Eduardo Jared Aguirre Cárdenas
 
 
