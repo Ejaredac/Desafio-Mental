@@ -7,4 +7,8 @@ Con:
 - Johnatan Alonso Lara
 - Luis Jesus Reinaldo Espino
 - Eduardo Jared Aguirre Cárdenas
+
+
+
+
 Repositorio del desarrollo del proyecto y sus documentos
