@@ -1,5 +1,5 @@
 # Desafio-Mental
-##Por el equipo: Trinidad 5 Entertainment
+## Por el equipo: Trinidad 5 Entertainment
 El proyecto de Taller de Investigación 1
 Con:
 - Victor Manuel Rendon Garcia
